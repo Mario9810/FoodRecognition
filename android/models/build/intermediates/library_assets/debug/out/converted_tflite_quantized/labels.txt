@@ -1,0 +1,2 @@
+0 italian food
+1 not italian food
